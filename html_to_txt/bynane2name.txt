@@ -1,0 +1,20 @@
+
+标准字段　　　　　,　　编号１          ,        编号２        ,     编号3    　　　，　编号４　　　　,　　编号５,
+项目名称         ,    招标项目名称     ,       招标项目名称   ,    招标项目名称    ,　招标项目名称  ,招标项目名称
+采购编号         ,    　　　　　　　　　,               　    ,                  ,             ,          ,
+采购单位         ,　　采购人名称　　　　　,               　　　, 　　　　 招标人    ,采购人名称,采购人名称
+招标公告发布日期  ,   招标公告发出日期  ,       招标公告发出日期  ,  招标公告发出日期  ,招标公告发出日期,招标公告发出日期
+评标日期         ,     评标日期         ,     评标日期        ,  评标日期         ,评标日期,评标日期
+中标公告发布日期  ,                    ,                     ,                  ,
+中标单位         ,     中标人           ,     成交人         ,  中标人            ,成交人,成交人
+中标金额         ,     中标金额         ,     成交总价        ,  中标总价          ,成交总价,成交总价
+
+
+
+编号：　url
+1     http://www.hngp.gov.cn/henan/content?infoId=1494846032411087&channelCode=H610102&bz=0
+2     http://www.hngp.gov.cn/henan/content?infoId=1494846032156370&channelCode=H610102&bz=0
+3     http://www.hngp.gov.cn/henan/content?infoId=1494846021004229&channelCode=H610102&bz=0
+4     http://www.hngp.gov.cn/henan/content?infoId=1494846014655952&channelCode=H610102&bz=0
+5     http://www.hngp.gov.cn/henan/content?infoId=1494846014710819&channelCode=H610102&bz=0
+
