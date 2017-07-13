@@ -1,0 +1,198 @@
+/usr/bin/python2.7 /home/bug320/A_workplace/2_7_13/crawl/Crawl2/parser/Group4.py
+connect to table page_cache ...
+connect to table page_cache ...
+http://www.hngp.gov.cn/henan/content?infoId=1498553687737006&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1498553674247092&channelCode=H680202&bz=0
+招标项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498553672994939&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1498553672211445&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1498553671725698&channelCode=H750602&bz=0
+时间
+http://www.hngp.gov.cn/henan/content?infoId=1498553671317469&channelCode=H710202&bz=0
+采购项目及编号
+http://www.hngp.gov.cn/henan/content?infoId=1498553665714196&channelCode=H730202&bz=0
+项目名称及采购编号
+http://www.hngp.gov.cn/henan/content?infoId=1498553663285598&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498553663020705&channelCode=H710202&bz=0
+招标项目及编号
+http://www.hngp.gov.cn/henan/content?infoId=1498553659666620&channelCode=H680202&bz=0
+采购人
+http://www.hngp.gov.cn/henan/content?infoId=1498553657489266&channelCode=H740602&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498553657007281&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498177923228587&channelCode=D270202&bz=0
+项目名称及招标编号
+(1366, "Incorrect string value: '\\xE4\\xB8\\x80\\xE5\\xB9\\xB6...' for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1498177920645462&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1498177919924517&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1498177919797332&channelCode=H700202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498177917646359&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1498177917489798&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1498177916415434&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1498177909250917&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1498177907323979&channelCode=H680202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498177905616875&channelCode=H680202&bz=0
+招标项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498177902568923&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1498018468514651&channelCode=H690202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1498018466442231&channelCode=H650202&bz=0
+招标条件
+http://www.hngp.gov.cn/henan/content?infoId=1498018462026106&channelCode=H680202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1497685530432596&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1497685529935404&channelCode=H680202&bz=0
+采购人
+http://www.hngp.gov.cn/henan/content?infoId=1497685528510320&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1497685527706499&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1497685524195824&channelCode=H690202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1497685522285615&channelCode=H680202&bz=0
+采购人
+http://www.hngp.gov.cn/henan/content?infoId=1497685522482360&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1497685517054245&channelCode=H680202&bz=0
+采购人
+http://www.hngp.gov.cn/henan/content?infoId=1497685516677424&channelCode=H700202&bz=0
+项目名称
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1497520711218458&channelCode=D350202&bz=0
+项目信息
+http://www.hngp.gov.cn/henan/content?infoId=1497520710964719&channelCode=D350202&bz=0
+项目信息
+http://www.hngp.gov.cn/henan/content?infoId=1497520707785670&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846139397721&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846133119636&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846132354770&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846132110884&channelCode=D350202&bz=0
+项目信息
+http://www.hngp.gov.cn/henan/content?infoId=1494846128218006&channelCode=H740602&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846123232907&channelCode=D530202&bz=0
+招标项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846121780124&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846121502736&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846117730531&channelCode=H690202&bz=0
+采购人
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846113925102&channelCode=H700202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846113876409&channelCode=H700202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846112726400&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846109299656&channelCode=H680202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846109253489&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846109225795&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846107136286&channelCode=H680202&bz=0
+采 购 人
+http://www.hngp.gov.cn/henan/content?infoId=1494846106632177&channelCode=D240202&bz=0
+项目名称
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846103873849&channelCode=H690202&bz=0
+采购编号
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846103483928&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846102126888&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846097453939&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846097204923&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846094050712&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846094287701&channelCode=H700202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846090549476&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846088710750&channelCode=H690202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846084992627&channelCode=H680202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846085721027&channelCode=D350202&bz=0
+项目名称及编号
+http://www.hngp.gov.cn/henan/content?infoId=1494846084369954&channelCode=H680202&bz=0
+招标人
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846079848922&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846079215636&channelCode=D240202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846078246878&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846073264529&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846071911463&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846071047913&channelCode=H680202&bz=0
+招标项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846066091341&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846063037907&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846061079821&channelCode=H770602&bz=0
+采购人及采购代理机构的名称、地址和联系方式
+http://www.hngp.gov.cn/henan/content?infoId=1494846059392995&channelCode=H700202&bz=0
+项目名称
+http://www.hngp.gov.cn/henan/content?infoId=1494846059197751&channelCode=H680202&bz=0
+招标人
+(1406, "Data too long for column 'html' at row 1")
+http://www.hngp.gov.cn/henan/content?infoId=1494846058586729&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846057631582&channelCode=H680202&bz=0
+招标人
+http://www.hngp.gov.cn/henan/content?infoId=1494846054099001&channelCode=H740602&bz=0
+招标概况
+http://www.hngp.gov.cn/henan/content?infoId=1494846053421360&channelCode=H680202&bz=0
+采 购 人
+http://www.hngp.gov.cn/henan/content?infoId=1494846053255897&channelCode=H680202&bz=0
+采 购 人
+(1406, "Data too long for column 'html' at row 1")
+17
+采购人及采购代理机构的名称、联系方式 ===== 18
+招标条件 ===== 4
+招标概况 ===== 4
+招标项目名称 ===== 6
+项目信息 ===== 4
+招标项目及编号 ===== 7
+项目名称及采购编号 ===== 9
+项目名称及编号   ===== 9
+采 购 人 ===== 5
+项目名称及招标编号   ===== 11
+采购人 ===== 3
+项目名称 ===== 4
+采购项目及编号 ===== 7
+时间 ===== 2
+采购编号 ===== 4
+招标人 ===== 3
+采购人及采购代理机构的名称、地址和联系方式 ===== 21
+
+Process finished with exit code 0

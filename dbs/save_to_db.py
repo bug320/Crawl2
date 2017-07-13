@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 from bs4 import UnicodeDammit
 import downloader
 from const_var import *
-
 download =downloader.Downloader()
 
 class MySQL(object):
